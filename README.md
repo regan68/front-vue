@@ -1,4 +1,4 @@
-# school-vue
+# front-vue
 
 > A Vue.js project
 
